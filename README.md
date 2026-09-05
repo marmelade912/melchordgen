@@ -58,7 +58,7 @@ Where it stands: the first measurement era closed at **8 of 17** samples passing
 
 The rater's own reliability was measured too. A blind re-serve of a burned batch reproduced the original ratings exactly at n=3; a second, truly blind re-serve a week later came back exactly one point lower on every clip, pooled agreement 0.571 at n=6 against a 0.70 kill line committed before any serve ran. The pre-committed decomposition ruled it drift, not noise (uniform deltas, rank order preserved, the same specific complaint reproduced blind seven days apart): the bar rises about a point per week on old material, by design, and every counted milestone test was rated same-day so the scorecard is drift-immune.
 
-The full method, its limits (N=1, no randomized exposure ordering, no washout accounting), and the three self-disproof attempts that the project's confidence actually rests on: [docs/EVALUATION-METHOD.md](docs/EVALUATION-METHOD.md).
+The full method and its limits (N=1 rater, no randomized exposure ordering, no washout accounting, small n with non-independent takes): [docs/EVALUATION-METHOD.md](docs/EVALUATION-METHOD.md).
 
 ---
 
